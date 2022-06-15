@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{01007BB4-1C76-4ED5-BB1D-039CA5A103DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCorePal.SqlExporter", "src\NetCorePal.SqlExporter\NetCorePal.SqlExporter.csproj", "{EFA3B136-ADFA-48A9-AB2B-CBC753CF37E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA3B136-ADFA-48A9-AB2B-CBC753CF37E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA3B136-ADFA-48A9-AB2B-CBC753CF37E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA3B136-ADFA-48A9-AB2B-CBC753CF37E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA3B136-ADFA-48A9-AB2B-CBC753CF37E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFA3B136-ADFA-48A9-AB2B-CBC753CF37E4} = {01007BB4-1C76-4ED5-BB1D-039CA5A103DA}
+	EndGlobalSection
+EndGlobal
